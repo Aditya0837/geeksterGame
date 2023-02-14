@@ -1,1 +1,1 @@
-# geeksterGame : https://sachinbiswal.github.io/geeksterGame/
+# geeksterGame : https://Aditya0837.github.io/geeksterGame/
